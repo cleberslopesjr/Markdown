@@ -14,7 +14,9 @@ Para uma perfeita visualização do meu trabalho sugiro a instalção da extenç
 1. [Markdown para WhatsApp](feitosParaWhatsApp/markdowParaWhatsApp.markdown).
 Um pequeno estudo a respeito das marcações Markdown aceitas pelo WhatsApp.
 
-2. [Programação do Cinemark Itabuna Compartilhada via WhatsApp em 22/10/2021.](feitosParaWhatsApp/20211022programacaoCinemarkItabuna.markdown)
+2. [Programação do Cinemark Itabuna Compartilhada via WhatsApp em 22/10/2021;](feitosParaWhatsApp/20211022programacaoCinemarkItabuna.markdown)
+
+3. [Programação do Ciname Santa Clara em 26/01/2023.](feitosParaWhatsApp/20230126programacaodocinemasantaclara.markdown)
 
 ### Referências
 

@@ -1,3 +1,7 @@
+[Inicio](../index.markdown)
+
+>Código feito para WhatsApp:
+
 📽️ *PROGRAMAÇÃO DO CINEMARK ITABUNA:* 📽️
 
 🎞️ *DUNA:* 🎞️

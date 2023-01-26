@@ -1,3 +1,5 @@
+[Inicio](../index.markdown)
+
 ## Sabor* Markdown do WhatsApp
 
 Segue abaixo um estudo rápido das marcações Markdown aceitas pelo WhatsApp.
